@@ -2,6 +2,10 @@
 
 A user configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
+## 🛠️ Features
+- Github Copilot
+- Code Runner
+
 ## 🛠️ Installation
 
 #### Make a backup of your current nvim and shared folder
